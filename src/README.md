@@ -49,21 +49,15 @@ src/
 │   └── Result.java      # For handling success/failure
 └──
 ```
-
+## UML Diagram
+![UMLDiagram.png](../UMLDiagram.png)
 ## How to Build and Run
+
+Just run the Main class(it's also being Main in configuration)
 
 ### Requirements
 - Java 11 or higher
 
-### Manual Compilation (if you don't have Maven)
-
-```bash
-# Compile all Java files
-javac -d bin src/**/*.java
-
-# Run the application
-java -cp bin ui.UniversityRegistrationApp
-```
 
 ## How to Use It
 
