@@ -1,5 +1,5 @@
 # University Course Registration System (Mykyta Korobko 240201342)
-
+github: https://github.com/K4p06Ka/UniversityRegistrationSystem
 
 ## What This Project Does
 
